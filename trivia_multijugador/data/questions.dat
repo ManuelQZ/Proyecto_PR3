@@ -1,0 +1,6 @@
+{"id":1,"topic":"ciencia","text":"¿Cuál es el planeta más grande del sistema solar?","options":{"A":"Marte","B":"Júpiter","C":"Saturno","D":"Neptuno"},"correct_answer":"B"}
+{"id":2,"topic":"ciencia","text":"¿Qué elemento químico tiene el símbolo 'O'?","options":{"A":"Oro","B":"Oxígeno","C":"Osmio","D":"Oganesón"},"correct_answer":"B"}
+{"id":3,"topic":"ciencia","text":"¿Cuántos huesos tiene el cuerpo humano adulto?","options":{"A":"196","B":"206","C":"216","D":"226"},"correct_answer":"B"}
+{"id":4,"topic":"historia","text":"¿En qué año llegó Colón a América?","options":{"A":"1492","B":"1500","C":"1520","D":"1488"},"correct_answer":"A"}
+{"id":5,"topic":"historia","text":"¿Quién fue el primer presidente de Estados Unidos?","options":{"A":"Thomas Jefferson","B":"George Washington","C":"Abraham Lincoln","D":"John Adams"},"correct_answer":"B"}
+{"id":6,"topic":"geografia","text":"¿Cuál es el río más largo del mundo?","options":{"A":"Nilo","B":"Amazonas","C":"Misisipi","D":"Yangtsé"},"correct_answer":"B"}
