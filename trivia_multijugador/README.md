@@ -112,4 +112,4 @@ lib/
 
 ---
 
-**Desarrollado por:** [Tu Nombre Aquí]
+**Desarrollado por:** Manuel Javier Quintero Zapata
