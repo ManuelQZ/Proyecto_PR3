@@ -1,4 +1,3 @@
-# config/config.exs
 import Config
 
 config :trivia_multijugador,
